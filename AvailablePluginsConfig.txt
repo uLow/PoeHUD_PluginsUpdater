@@ -99,3 +99,9 @@ GitOwner:k-Sacr
 GitName:BladeFlurryCharges
 ConfigURL:Owner:k-Sacr$Name:BladeFlurryCharges$Repository$Ignore:$src$.gitignore$README.md
 Desctription: Mouse click on maximum blade flurry charges.
+
+Plugin:AdvancedUberLabLayout
+GitOwner:Stridemann
+GitName:PoeHUD_AdvancedUberLabLayout
+ConfigURL:https://raw.githubusercontent.com/Stridemann/PoeHUD_AdvancedUberLabLayout/master/GitUpdateConfig.txt
+Desctription: Shows current labyrinth layout.
